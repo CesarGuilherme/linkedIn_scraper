@@ -18,7 +18,6 @@ LinkedIn_url_profiles.txt
 LinkedIn_url_profiles_old.txt
 config.txt
 driver/.DS_Store
-driver/chromedriver
 linkedin.csv
 linkedin.xlsx
 linkedin_new1.xlsx
