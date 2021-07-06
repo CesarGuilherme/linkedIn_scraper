@@ -1,0 +1,32 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and databases #
+######################
+*.txt
+*.xlsx
+LikedIn-Profieles_clean.xlsx
+LinkedIn_url_profiles.txt
+"LinkedIn_url_profiles_old - c\303\263pia.txt"
+LinkedIn_url_profiles_old.txt
+config.txt
+driver/.DS_Store
+driver/chromedriver
+linkedin.csv
+linkedin.xlsx
+linkedin_new1.xlsx
+linkedin_new2.xlsx
+linkedin_part1.xlsx
+linkedin_part2.xlsx
+lista teste.txt
+parte1_linkedin.txt
+
+#jupyter checkpoints
+.ipynb_checkpoints/
