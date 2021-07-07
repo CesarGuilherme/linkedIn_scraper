@@ -29,3 +29,5 @@ parte1_linkedin.txt
 
 #jupyter checkpoints
 .ipynb_checkpoints/
+
+.gitignore
